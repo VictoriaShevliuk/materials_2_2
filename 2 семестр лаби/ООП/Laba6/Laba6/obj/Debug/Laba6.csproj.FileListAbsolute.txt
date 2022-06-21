@@ -1,0 +1,7 @@
+D:\Лаби ООП\Лаба 6\Laba6\Laba6\bin\Debug\Laba6.exe.config
+D:\Лаби ООП\Лаба 6\Laba6\Laba6\bin\Debug\Laba6.exe
+D:\Лаби ООП\Лаба 6\Laba6\Laba6\bin\Debug\Laba6.pdb
+D:\Лаби ООП\Лаба 6\Laba6\Laba6\obj\Debug\Laba6.csprojAssemblyReference.cache
+D:\Лаби ООП\Лаба 6\Laba6\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
+D:\Лаби ООП\Лаба 6\Laba6\Laba6\obj\Debug\Laba6.exe
+D:\Лаби ООП\Лаба 6\Laba6\Laba6\obj\Debug\Laba6.pdb

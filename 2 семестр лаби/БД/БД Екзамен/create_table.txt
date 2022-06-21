@@ -1,0 +1,35 @@
+
+CREATE TABLE `dovid_distr` (
+  `KOD_DISTR` int(11) NOT NULL,
+  `NAME_DISTR` varchar(45) NOT NULL,
+  `ADRESS_DISTR` varchar(45) NOT NULL,
+  `NAME_DISTR` varchar(45) NOT NULL,
+  PRIMARY KEY (`KOD_DISTR`)
+)
+
+CREATE TABLE `zamov_tovar` (
+`NUM_ZAMOV` int(11) NOT NULL,
+  `KOD_DISTR` int(11) NOT NULL,
+  `DATE_ZAMOV` date NOT NULL,
+  `DATE_SPLAT` date NOT NULL,
+  `NAME_DISTR` varchar(45) NOT NULL,
+  PRIMARY KEY (`NUM_ZAMOV`)
+)
+
+CREATE TABLE `dovid_tovar` (
+`KOD_TOVAR` int(11) NOT NULL,
+  `NAME_TOVAR` varchar(45) NOT NULL,
+  `PRICE_TOVAR` int(11) NOT NULL,
+    PRIMARY KEY (`KOD_TOVAR`)
+)
+
+CREATE TABLE `dovid_tovar` (
+  `ID` int(11) NOT NULL,
+`NUM_ZAMOV` int(11) NOT NULL,
+`KOD_TOVAR` int(11) NOT NULL,
+  `KIL` int(11) NOT NULL,
+    PRIMARY KEY (`ID`)
+)
+
+
+

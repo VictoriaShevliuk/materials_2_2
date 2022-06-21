@@ -1,0 +1,13 @@
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\bin\Debug\netcoreapp3.1\Lab2_6_OOP.exe
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\bin\Debug\netcoreapp3.1\Lab2_6_OOP.deps.json
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\bin\Debug\netcoreapp3.1\Lab2_6_OOP.runtimeconfig.json
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\bin\Debug\netcoreapp3.1\Lab2_6_OOP.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\bin\Debug\netcoreapp3.1\Lab2_6_OOP.dll
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\bin\Debug\netcoreapp3.1\Lab2_6_OOP.pdb
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\obj\Debug\netcoreapp3.1\Lab2_6_OOP.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\obj\Debug\netcoreapp3.1\Lab2_6_OOP.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\obj\Debug\netcoreapp3.1\Lab2_6_OOP.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\obj\Debug\netcoreapp3.1\Lab2_6_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\obj\Debug\netcoreapp3.1\Lab2_6_OOP.dll
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\obj\Debug\netcoreapp3.1\Lab2_6_OOP.pdb
+C:\Users\Виктория\Desktop\OOP\labies\Lab2_Shevliuk_OOP\Lab2_6_OOP\Lab2_6_OOP\obj\Debug\netcoreapp3.1\Lab2_6_OOP.genruntimeconfig.cache

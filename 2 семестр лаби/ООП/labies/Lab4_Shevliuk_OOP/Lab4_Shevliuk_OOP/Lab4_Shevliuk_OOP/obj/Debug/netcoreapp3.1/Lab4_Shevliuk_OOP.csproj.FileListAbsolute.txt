@@ -1,0 +1,13 @@
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\bin\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.exe
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\bin\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.deps.json
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\bin\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.runtimeconfig.json
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\bin\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\bin\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.dll
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\bin\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.pdb
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\obj\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\obj\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\obj\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\obj\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\obj\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.dll
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\obj\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.pdb
+C:\Users\Виктория\Desktop\OOP\labies\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\Lab4_Shevliuk_OOP\obj\Debug\netcoreapp3.1\Lab4_Shevliuk_OOP.genruntimeconfig.cache

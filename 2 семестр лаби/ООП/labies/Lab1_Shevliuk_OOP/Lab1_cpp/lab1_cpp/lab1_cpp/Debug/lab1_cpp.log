@@ -1,0 +1,4 @@
+﻿  TCylinder.cpp
+C:\Users\Виктория\Desktop\OOP\labies\Lab1_Shevliuk_OOP\Lab1_cpp\lab1_cpp\lab1_cpp\TCylinder.cpp(13,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Виктория\Desktop\OOP\labies\Lab1_Shevliuk_OOP\Lab1_cpp\lab1_cpp\lab1_cpp\TCylinder.cpp(19,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lab1_cpp.vcxproj -> C:\Users\Виктория\Desktop\OOP\labies\Lab1_Shevliuk_OOP\Lab1_cpp\lab1_cpp\Debug\lab1_cpp.exe
